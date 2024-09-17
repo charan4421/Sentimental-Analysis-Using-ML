@@ -13,7 +13,7 @@
  8) [Text Stemming](#text-stemming)
  9) [Feature Engineering](#feature-engineering)
  10) [Vectorization](#vectorization)
- 11)[Modeling](#modeling)
+ 11) [Modeling](#modeling)
  12) [Train-Test Split](#train-test-split)
  13) [Logistic Regression](#logistic-regression)
  14) [Evaluation](#evaluation)
