@@ -7,7 +7,7 @@
  2) [Project Workflow](#project-workflow)
  3) [Technologies Used](#technologies-used)
  4) [Data Collection](#data-collection)
- 5)[Data Preprocessing](#data-preprocessing)
+ 5) [Data Preprocessing](#data-preprocessing)
  6) [Stopwords Removal](#stopwords-removal)
  7) [Data Cleaning](#data-cleaning)
  8) [Text Stemming](#text-stemming)
